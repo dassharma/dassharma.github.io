@@ -45,7 +45,7 @@ youtube_username: inomadicsoul
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/IMG_8459.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name’s Tamit and I’m a SAP Solution Architect with 10+ years in ABAP Cloud & S/4HANA. I specialize in clean-core extensibility, RAP/Fiori development, and enterprise analytics that deliver 60-85% process optimizations. I’ve led teams at EXA AG, SAP Labs, and Capgemini.
@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>RAP/ABAP Cloud</mark> and <mark>Clean-Core S/4HANA</mark>
 
-#content:
+content:
 #- title: Projects # Title for the section
 #layout: list # Type of content section (list/text)
 #    content:
