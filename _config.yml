@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/IMG_8459.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name’s Tamit and I’m a SAP Solution Architect with 10+ years in ABAP Cloud & S/4HANA. I specialize in clean-core extensibility, RAP/Fiori development, and enterprise analytics that deliver 60-85% process optimizations. I’ve led teams at EXA AG, SAP Labs, and Capgemini.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+  I am most skilled in: <mark>RAP/ABAP Cloud</mark> and <mark>Clean-Core S/4HANA</mark>
 
 content:
   - title: Projects # Title for the section
