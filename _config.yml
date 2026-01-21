@@ -86,7 +86,8 @@ content:
           Architecting clean-core extensibility that scales from on-premise to BTP ABAP Cloud
         description: | # this will include new lines to allow paragraphs
             Every SAP implementation needs extensible architecture that scales. At EXA AG, I bridge C-level stakeholders with technical delivery, driving workshops that align business goals with clean-core principles. Delivered EXA Service Cross Charging – reducing deployment efforts by 80-85% across global teams. Led cross-functional sprints and owned product lifecycle from MDG governance to production analytics.
-#layout: list # Type of content section (list/text)
+
+layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: SAP Labs India
@@ -99,7 +100,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             SAP Labs demands innovation at scale. I optimized S/4 Retail Cloud replenishment engines with 69% faster UOM workflows and delivered SAC-integrated procurement analytics. Built OData APIs for C/4HANA service channels and led code quality initiatives now used by SAP and enterprise customers worldwide.          
 
-#layout: list # Type of content section (list/text)
+layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Capgemini
