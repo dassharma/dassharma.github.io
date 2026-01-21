@@ -131,14 +131,21 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my professional expertise in SAP ABAP Cloud and S/4HANA architecture, some of my key interests and hobbies include:
+•	
+•	 (DJI Mini 4 Pro + Action 4)
+•	
+•	
+•	
+      - Motorcyclenn riding (love my bike adventures)b
+      - Drone photography
+      - Landscape and travel photography
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Instagram content creation blending tech and travel
+      - Exploring Single Malts
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      #Look at this cool image  
+      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
