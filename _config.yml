@@ -127,7 +127,13 @@ content:
     content: |
       I’m an SAP consultant passionate about simplifying technology and sharing what I learn along the way. Here you’ll find my blogs originally written for the SAP Community—covering real project experiences, practical insights, and ideas that inspire better solutions within the SAP ecosystem. 
       - Unleashing ABAP Potential: An introduction to Extension Libraries (XCO) 
-        link: | (https://community.sap.com/t5/technology-blog-posts-by-sap/unleashing-abap-potential-an-introduction-to-extension-libraries-xco/ba-p/13949814)
+      - Platform agnostic ABAP Add-On Development and use of standard objects in Cloud Development
+      - Custom SLA milestones
+      - Way to achieve clean design in ABAP Classes !!
+      - Signatures ~ Default it in SAP Service Cloud
+      - Handling of Multiple – Channel E-mail addresses in the TO or CC field
+      - SLA milestone calculation affected due to new holiday introduced
+      - Create custom code list restriction
       
   - title: A Little More About Me
     layout: text
