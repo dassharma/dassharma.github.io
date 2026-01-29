@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Tamit Kumar Das Sharma
-title: SAP Evangelist & Architect | Product Owner
+title: SAP Evangelist & Architect | Product Owner | Blogger
 email: tamitdassharma@icloud.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -122,6 +122,12 @@ content:
 
           I thrived in WBUT’s competitive environment, leading group projects and hackathons that honed my ability to deliver complex solutions under tight deadlines – skills I’ve scaled to enterprise S/4HANA implementations at EXA AG and SAP Labs.
 
+  - title: SAP Blogs
+    layout: list
+    content: |
+      I’m an SAP consultant passionate about simplifying technology and sharing what I learn along the way. Here you’ll find my blogs originally written for the SAP Community—covering real project experiences, practical insights, and ideas that inspire better solutions within the SAP ecosystem.
+      - link: Unleashing ABAP Potential: An introduction to Extension Libraries (XCO) (https://community.sap.com/t5/technology-blog-posts-by-sap/unleashing-abap-potential-an-introduction-to-extension-libraries-xco/ba-p/13949814)
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
