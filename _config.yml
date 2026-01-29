@@ -123,7 +123,7 @@ content:
           I thrived in WBUT’s competitive environment, leading group projects and hackathons that honed my ability to deliver complex solutions under tight deadlines – skills I’ve scaled to enterprise S/4HANA implementations at EXA AG and SAP Labs.
 
   - title: SAP Blogs Authored
-    layout: list
+    layout: text
     content: |
       I’m an SAP consultant passionate about simplifying technology and sharing what I learn along the way. Here you’ll find my blogs originally written for the SAP Community—covering real project experiences, practical insights, and ideas that inspire better solutions within the SAP ecosystem. 
       - Unleashing ABAP Potential: An introduction to Extension Libraries (XCO) 
@@ -133,7 +133,8 @@ content:
       - Signatures ~ Default it in SAP Service Cloud
       - Handling of Multiple – Channel E-mail addresses in the TO or CC field
       - SLA milestone calculation affected due to new holiday introduced
-      - Create custom code list restriction
+      - Create custom code list restriction (link: https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/create-custom-code-list-restriction/ba-p/13388223 )
+      - link: https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/create-custom-code-list-restriction/ba-p/13388223
       
   - title: A Little More About Me
     layout: text
