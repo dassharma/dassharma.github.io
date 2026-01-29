@@ -133,8 +133,10 @@ content:
       - Signatures ~ Default it in SAP Service Cloud
       - Handling of Multiple – Channel E-mail addresses in the TO or CC field
       - SLA milestone calculation affected due to new holiday introduced
-      - Create custom code list restriction (link: https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/create-custom-code-list-restriction/ba-p/13388223 )
-      - link: https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/create-custom-code-list-restriction/ba-p/13388223
+      - Create custom code list restriction
+    link: https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/create-custom-code-list-restriction/ba-p/13388223    
+    link: | 
+        https://community.sap.com/t5/crm-and-cx-blog-posts-by-sap/create-custom-code-list-restriction/ba-p/13388223
       
   - title: A Little More About Me
     layout: text
