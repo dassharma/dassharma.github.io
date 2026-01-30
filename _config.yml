@@ -123,6 +123,7 @@ content:
           I thrived in WBUT’s competitive environment, leading group projects and hackathons that honed my ability to deliver complex solutions under tight deadlines – skills I’ve scaled to enterprise S/4HANA implementations at EXA AG and SAP Labs.
 
   - title: SAP Blogs Authored
+    link: blogs.sap.com
     layout: text
     content: |
       I’m an SAP consultant passionate about simplifying technology and sharing what I learn along the way. Here you’ll find my blogs originally written for the SAP Community—covering real project experiences, practical insights, and ideas that inspire better solutions within the SAP ecosystem. 
