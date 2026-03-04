@@ -127,6 +127,7 @@ content:
     layout: text
     content: |
       I’m an SAP consultant passionate about simplifying technology and sharing what I learn along the way. Here you’ll find my blogs originally written for the SAP Community—covering real project experiences, practical insights, and ideas that inspire better solutions within the SAP ecosystem. 
+      - Unlock S/4HANA Cloud Secrets: Hybrid Events+APIs Strategy for Seamless BTP Data Flows
       - Unleashing ABAP Potential: An introduction to Extension Libraries (XCO) 
       - Platform agnostic ABAP Add-On Development and use of standard objects in Cloud Development
       - Custom SLA milestones
