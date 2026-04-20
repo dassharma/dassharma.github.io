@@ -75,7 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Deloitte Consulting GmbH
+        title: Deloitte Consulting
         link: deloitte.com/de
         # link_text: boringcompany.com
         sub_title: Manager – SAP Transformation (Engagement Management)
