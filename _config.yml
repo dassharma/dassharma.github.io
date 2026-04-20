@@ -71,10 +71,20 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Deloitte Consulting GmbH
+        link: deloitte.com/de
+        # link_text: boringcompany.com
+        sub_title: Manager – SAP Transformation (Engagement Management)
+        caption: April 2026 - Present
+        quote: >
+          Driving clean‑core SAP transformations from strategy to value realization.
+        description: | # this will include new lines to allow paragraphs
+            I drive enterprise‑scale SAP transformations from strategy through execution, specializing in greenfield SAP S/4HANA programs. My focus lies on Clean Core architectures, cloud readiness, and sustainable operating models. I work closely with senior stakeholders to translate business priorities into scalable SAP landscapes, delivering measurable value through disciplined governance, global delivery collaboration, and a strong emphasis on long‑term operability.
+            
       - layout: left
         title: EXA AG
         link: exa-ag.com
